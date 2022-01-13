@@ -1,0 +1,15 @@
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\PROGRAMAÇÃO\estudos\Digital Innovation One - AVANADE\Desafio .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\PROGRAMAÇÃO\estudos\Digital Innovation One - AVANADE\Desafio .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\PROGRAMAÇÃO\estudos\Digital Innovation One - AVANADE\Desafio .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\PROGRAMAÇÃO\estudos\Digital Innovation One - AVANADE\Desafio .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\PROGRAMAÇÃO\estudos\Digital Innovation One - AVANADE\Desafio .NET\DIO.Series\bin\Debug\net6.0\ref\DIO.Series.dll
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\PROGRAMAÇÃO\estudos\Digital Innovation One - AVANADE\Desafio .NET\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\PROGRAMAÇÃO\estudos\Digital Innovation One - AVANADE\Desafio .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\PROGRAMAÇÃO\estudos\Digital Innovation One - AVANADE\Desafio .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\PROGRAMAÇÃO\estudos\Digital Innovation One - AVANADE\Desafio .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\PROGRAMAÇÃO\estudos\Digital Innovation One - AVANADE\Desafio .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\PROGRAMAÇÃO\estudos\Digital Innovation One - AVANADE\Desafio .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\PROGRAMAÇÃO\estudos\Digital Innovation One - AVANADE\Desafio .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\PROGRAMAÇÃO\estudos\Digital Innovation One - AVANADE\Desafio .NET\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\PROGRAMAÇÃO\estudos\Digital Innovation One - AVANADE\Desafio .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+C:\Users\Gustavo Massamichi\OneDrive - ifsp.edu.br\Área de Trabalho\PROGRAMAÇÃO\estudos\Digital Innovation One - AVANADE\Desafio .NET\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache
